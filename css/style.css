@@ -1,0 +1,35 @@
+body{
+    height: 955px;
+    background-image: url(../img/fundo\ 1.png);
+}
+
+table{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+td, tr {
+    padding: 0%;
+    border-spacing: 0%;
+}
+
+td{
+    width: 12.5%;
+    height: 5%;
+    
+}
+
+#ft{
+    width: 100%;
+}
+
+.cabecalho{
+    background-color: rgb(64, 19, 107);
+    border: solid rgb(64, 19, 107) ;
+}
+
+#formulario{
+    height: 100%;
+}
